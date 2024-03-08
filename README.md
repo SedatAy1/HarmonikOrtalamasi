@@ -1,0 +1,2 @@
+# HarmonikOrtalamasi
+HarmonikOrtalamasi
